@@ -1,0 +1,15 @@
+{
+  "name": "Acho mi Kebab",
+  "short_name": "Acho mi Kebab",
+  "id": "com.example.platformer",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "1a9a96d960aa0cf6e729ed7bb4a884d4e8bd955bf0b6905adfb4a0603d2809d2-DesktopIcon512.png",
+        "sizes": "512x512"
+      }]
+}
